@@ -1,7 +1,9 @@
-# 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://api.github.com/licenses/mit)
+  
+# Title
   
 ## Description
-
+Description
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,19 +14,19 @@
 - [License](#license)
 
 ## Installation
-
+Installation guide
 
 ## Usage
-
+Usage guide
 
 ## Contribution
-
+ME
 
 ## Tests
-
+Dont
 
 ## Questions
-Check out my [Github](https://github.com/) or contact me via [email]()
+Visit my [Github](https://github.com/tkmarsten) or contact me via [email](tkmarsten@gmail.com)
 
 ## License
-[![License](https://img.shields.io/badge/License-AGPL-3.0-blue.svg)](https://api.github.com/licenses/agpl-3.0)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://api.github.com/licenses/mit)
