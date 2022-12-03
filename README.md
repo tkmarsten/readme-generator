@@ -6,7 +6,7 @@ A README generator that uses user input via the inquirer package. This project a
 
 ## Installation
 
-[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
+[![Npm package version](https://badgen.net/npm/node/next)](https://npmjs.com/)
 
 ## Usage
 
