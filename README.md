@@ -13,6 +13,7 @@ A README generator that uses user input via the inquirer package. This project a
 ## Usage
 
 To use, clone this repository and run `npm i` to install the required packages. After installation, use `node index.js` to run the program.
+A demo of this program can be found [here](https://youtu.be/fErHGsypjI8).
 
 ## Contribution
 

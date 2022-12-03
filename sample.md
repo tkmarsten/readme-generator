@@ -1,9 +1,9 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://api.github.com/licenses/mit)
   
-# Title
+# Demo Title
   
 ## Description
-Description
+Demo Description of project
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,19 +14,19 @@ Description
 - [License](#license)
 
 ## Installation
-Installation guide
+Demo installation instructions
 
 ## Usage
-Usage guide
+Use the project through the command line
 
 ## Contribution
 ME
 
 ## Tests
-Dont
+Do not test
 
 ## Questions
-Visit my [Github](https://github.com/tkmarsten) or contact me via [email](tkmarsten@gmail.com)
+Visit my [Github](https://github.com/tkmarsten) or contact me via [email](tkmarsten@gmail.com).
 
 ## License
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://api.github.com/licenses/mit)
