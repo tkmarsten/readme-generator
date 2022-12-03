@@ -4,6 +4,8 @@
 
 A README generator that uses user input via the inquirer package. This project also utilizes Node.js and axios for API calls to Github for license generation.
 
+![Image of homepage](homepage.png)
+
 ## Installation
 
 [![Npm package version](https://badgen.net/npm/node/next)](https://npmjs.com/)

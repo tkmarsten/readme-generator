@@ -68,7 +68,7 @@ ${data.contribution}
 ${data.tests}
 
 ## Questions
-Visit my [Github](https://github.com/${data.username}) or contact me via [email](${data.email})
+Visit my [Github](https://github.com/${data.username}) or contact me via [email](${data.email}).
 
 ## License
 ${renderLicenseSection(data.license)}
